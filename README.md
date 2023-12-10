@@ -1,2 +1,2 @@
-# Simulator
-Solving the particle simulator  problem
+# An ai simulator
+A system to simulate ai solutions
